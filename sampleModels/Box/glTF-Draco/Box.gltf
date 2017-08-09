@@ -1,0 +1,191 @@
+{
+  "asset": {
+    "generator": "COLLADA2GLTF",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1
+          },
+          "indices": 0,
+          "mode": 4,
+          "material": 0,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributesOrder": [
+                "POSITION"
+              ],
+              "version": "0.9.1"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR",
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ]
+    },
+    {
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "max": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.800000011920929,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0
+      },
+      "name": "Red",
+      "values": {},
+      "technique": 0
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 133,
+      "byteOffset": 0
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 133,
+      "uri": "0.bin"
+    }
+  ],
+  "animations": [],
+  "cameras": [],
+  "images": [],
+  "programs": [
+    {
+      "attributes": [
+        "a_position"
+      ],
+      "vertexShader": 0,
+      "fragmentShader": 1
+    }
+  ],
+  "samplers": [],
+  "shaders": [
+    {
+      "type": 35633,
+      "uri": "0.vert"
+    },
+    {
+      "type": 35632,
+      "uri": "1.frag"
+    }
+  ],
+  "skins": [],
+  "techniques": [
+    {
+      "attributes": {
+        "a_position": "position"
+      },
+      "parameters": {
+        "modelViewMatrix": {
+          "semantic": "MODELVIEW",
+          "type": 35676
+        },
+        "projectionMatrix": {
+          "semantic": "PROJECTION",
+          "type": 35676
+        },
+        "emission": {
+          "type": 35666,
+          "value": [
+            0.5,
+            0.5,
+            0.5,
+            1
+          ]
+        },
+        "position": {
+          "semantic": "POSITION",
+          "type": 35665
+        }
+      },
+      "states": {
+        "enable": [
+          2884,
+          2929
+        ]
+      },
+      "uniforms": {
+        "u_modelViewMatrix": "modelViewMatrix",
+        "u_projectionMatrix": "projectionMatrix",
+        "u_emission": "emission"
+      },
+      "program": 0
+    }
+  ],
+  "textures": [],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ]
+}
