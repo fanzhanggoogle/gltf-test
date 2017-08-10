@@ -61,9 +61,6 @@
                                 },
                                 {
                                     "semantic": "POSITION"
-                                },
-                                {
-                                    "semantic": "TEXCOORD_0"
                                 }
                             ],
                             "version": ""
@@ -92,13 +89,13 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 371
+            "byteLength": 225
         }
     ],
     "buffers": [
         {
-            "byteLength": 371,
-            "uri": "Box0.bin"
+            "byteLength": 225,
+            "uri": "BoxWithoutIndices0.bin"
         }
     ],
     "extensionsUsed": [
