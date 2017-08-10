@@ -56,14 +56,10 @@
                             "indexCount": 36,
                             "vertexCount": 24,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }

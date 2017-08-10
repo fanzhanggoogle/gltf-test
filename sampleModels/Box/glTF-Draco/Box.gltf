@@ -56,17 +56,11 @@
                             "indexCount": 36,
                             "vertexCount": 24,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                },
-                                {
-                                    "semantic": "TEXCOORD_0"
-                                }
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -92,12 +86,12 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 371
+            "byteLength": 349
         }
     ],
     "buffers": [
         {
-            "byteLength": 371,
+            "byteLength": 349,
             "uri": "Box0.bin"
         }
     ],

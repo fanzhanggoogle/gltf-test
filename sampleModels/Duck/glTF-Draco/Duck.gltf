@@ -90,15 +90,9 @@
                             "indexCount": 12636,
                             "vertexCount": 2399,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                },
-                                {
-                                    "semantic": "TEXCOORD_0"
-                                }
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
                             ],
                             "version": "0.9.1"
                         }
@@ -147,12 +141,12 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 22160
+            "byteLength": 16245
         }
     ],
     "buffers": [
         {
-            "byteLength": 22160,
+            "byteLength": 16245,
             "uri": "Duck0.bin"
         }
     ],

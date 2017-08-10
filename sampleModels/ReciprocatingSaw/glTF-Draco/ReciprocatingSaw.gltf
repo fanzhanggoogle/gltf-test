@@ -2998,14 +2998,10 @@
                             "indexCount": 1668,
                             "vertexCount": 628,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3028,14 +3024,10 @@
                             "indexCount": 6486,
                             "vertexCount": 1776,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3058,14 +3050,10 @@
                             "indexCount": 5172,
                             "vertexCount": 1840,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3088,14 +3076,10 @@
                             "indexCount": 5376,
                             "vertexCount": 1140,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3118,14 +3102,10 @@
                             "indexCount": 2346,
                             "vertexCount": 439,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3148,14 +3128,10 @@
                             "indexCount": 948,
                             "vertexCount": 205,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3178,14 +3154,10 @@
                             "indexCount": 5370,
                             "vertexCount": 1138,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3208,14 +3180,10 @@
                             "indexCount": 2244,
                             "vertexCount": 376,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3238,14 +3206,10 @@
                             "indexCount": 2244,
                             "vertexCount": 376,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3268,14 +3232,10 @@
                             "indexCount": 3084,
                             "vertexCount": 1028,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3298,14 +3258,10 @@
                             "indexCount": 18198,
                             "vertexCount": 4033,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3328,14 +3284,10 @@
                             "indexCount": 10236,
                             "vertexCount": 2101,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3358,14 +3310,10 @@
                             "indexCount": 4116,
                             "vertexCount": 1132,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3388,14 +3336,10 @@
                             "indexCount": 21336,
                             "vertexCount": 7120,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3418,14 +3362,10 @@
                             "indexCount": 18546,
                             "vertexCount": 4347,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3448,14 +3388,10 @@
                             "indexCount": 51774,
                             "vertexCount": 11115,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3478,14 +3414,10 @@
                             "indexCount": 75,
                             "vertexCount": 33,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3508,14 +3440,10 @@
                             "indexCount": 609,
                             "vertexCount": 207,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3538,14 +3466,10 @@
                             "indexCount": 444,
                             "vertexCount": 150,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3568,14 +3492,10 @@
                             "indexCount": 2376,
                             "vertexCount": 792,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3598,14 +3518,10 @@
                             "indexCount": 5460,
                             "vertexCount": 1445,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3628,14 +3544,10 @@
                             "indexCount": 5460,
                             "vertexCount": 1445,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3658,14 +3570,10 @@
                             "indexCount": 19518,
                             "vertexCount": 5357,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3688,14 +3596,10 @@
                             "indexCount": 180,
                             "vertexCount": 84,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3718,14 +3622,10 @@
                             "indexCount": 180,
                             "vertexCount": 84,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3748,14 +3648,10 @@
                             "indexCount": 21048,
                             "vertexCount": 7168,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3778,14 +3674,10 @@
                             "indexCount": 21048,
                             "vertexCount": 7168,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3808,14 +3700,10 @@
                             "indexCount": 21336,
                             "vertexCount": 7168,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3838,14 +3726,10 @@
                             "indexCount": 2244,
                             "vertexCount": 378,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3868,14 +3752,10 @@
                             "indexCount": 2244,
                             "vertexCount": 378,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3898,14 +3778,10 @@
                             "indexCount": 5718,
                             "vertexCount": 1342,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3928,14 +3804,10 @@
                             "indexCount": 3612,
                             "vertexCount": 890,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3958,14 +3830,10 @@
                             "indexCount": 1164,
                             "vertexCount": 388,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -3988,14 +3856,10 @@
                             "indexCount": 4314,
                             "vertexCount": 813,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4018,14 +3882,10 @@
                             "indexCount": 2400,
                             "vertexCount": 800,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4048,14 +3908,10 @@
                             "indexCount": 11466,
                             "vertexCount": 3829,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4078,14 +3934,10 @@
                             "indexCount": 42690,
                             "vertexCount": 10258,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4108,14 +3960,10 @@
                             "indexCount": 10692,
                             "vertexCount": 2878,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4138,14 +3986,10 @@
                             "indexCount": 84,
                             "vertexCount": 44,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4168,14 +4012,10 @@
                             "indexCount": 84,
                             "vertexCount": 44,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4198,14 +4038,10 @@
                             "indexCount": 66,
                             "vertexCount": 30,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4228,14 +4064,10 @@
                             "indexCount": 189,
                             "vertexCount": 88,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4258,14 +4090,10 @@
                             "indexCount": 828,
                             "vertexCount": 303,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4288,14 +4116,10 @@
                             "indexCount": 429,
                             "vertexCount": 151,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4318,14 +4142,10 @@
                             "indexCount": 66,
                             "vertexCount": 30,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4348,14 +4168,10 @@
                             "indexCount": 189,
                             "vertexCount": 88,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4378,14 +4194,10 @@
                             "indexCount": 828,
                             "vertexCount": 303,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4408,14 +4220,10 @@
                             "indexCount": 429,
                             "vertexCount": 151,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4438,14 +4246,10 @@
                             "indexCount": 180,
                             "vertexCount": 68,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4468,14 +4272,10 @@
                             "indexCount": 288,
                             "vertexCount": 100,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4498,14 +4298,10 @@
                             "indexCount": 855,
                             "vertexCount": 185,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4528,14 +4324,10 @@
                             "indexCount": 1161,
                             "vertexCount": 295,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4558,14 +4350,10 @@
                             "indexCount": 30,
                             "vertexCount": 20,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4588,14 +4376,10 @@
                             "indexCount": 11370,
                             "vertexCount": 3826,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4618,14 +4402,10 @@
                             "indexCount": 492,
                             "vertexCount": 212,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4648,14 +4428,10 @@
                             "indexCount": 492,
                             "vertexCount": 212,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4678,14 +4454,10 @@
                             "indexCount": 36,
                             "vertexCount": 24,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4708,14 +4480,10 @@
                             "indexCount": 5016,
                             "vertexCount": 1008,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4738,14 +4506,10 @@
                             "indexCount": 5256,
                             "vertexCount": 1220,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4768,14 +4532,10 @@
                             "indexCount": 282,
                             "vertexCount": 104,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4798,14 +4558,10 @@
                             "indexCount": 288,
                             "vertexCount": 100,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4828,14 +4584,10 @@
                             "indexCount": 678,
                             "vertexCount": 268,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4858,14 +4610,10 @@
                             "indexCount": 21609,
                             "vertexCount": 4583,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4888,14 +4636,10 @@
                             "indexCount": 624,
                             "vertexCount": 218,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -4918,14 +4662,10 @@
                             "indexCount": 23511,
                             "vertexCount": 5276,
                             "attributes": [
-                                {
-                                    "semantic": "NORMAL"
-                                },
-                                {
-                                    "semantic": "POSITION"
-                                }
+                                "NORMAL",
+                                "POSITION"
                             ],
-                            "version": ""
+                            "version": "0.9.1"
                         }
                     }
                 }
@@ -6044,332 +5784,332 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 3338
+            "byteLength": 2587
         },
         {
             "buffer": 0,
-            "byteOffset": 3338,
-            "byteLength": 10887
+            "byteOffset": 2587,
+            "byteLength": 8503
         },
         {
             "buffer": 0,
-            "byteOffset": 14225,
-            "byteLength": 10043
+            "byteOffset": 11090,
+            "byteLength": 7711
         },
         {
             "buffer": 0,
-            "byteOffset": 24268,
-            "byteLength": 7488
+            "byteOffset": 18801,
+            "byteLength": 5797
         },
         {
             "buffer": 0,
-            "byteOffset": 31756,
-            "byteLength": 3270
+            "byteOffset": 24598,
+            "byteLength": 2610
         },
         {
             "buffer": 0,
-            "byteOffset": 35026,
-            "byteLength": 1726
+            "byteOffset": 27208,
+            "byteLength": 1415
         },
         {
             "buffer": 0,
-            "byteOffset": 36752,
-            "byteLength": 7497
+            "byteOffset": 28623,
+            "byteLength": 5818
         },
         {
             "buffer": 0,
-            "byteOffset": 44249,
-            "byteLength": 3104
+            "byteOffset": 34441,
+            "byteLength": 2536
         },
         {
             "buffer": 0,
-            "byteOffset": 47353,
-            "byteLength": 3104
+            "byteOffset": 36977,
+            "byteLength": 2536
         },
         {
             "buffer": 0,
-            "byteOffset": 50457,
-            "byteLength": 5743
+            "byteOffset": 39513,
+            "byteLength": 4340
         },
         {
             "buffer": 0,
-            "byteOffset": 56200,
-            "byteLength": 24175
+            "byteOffset": 43853,
+            "byteLength": 18572
         },
         {
             "buffer": 0,
-            "byteOffset": 80375,
-            "byteLength": 12702
+            "byteOffset": 62425,
+            "byteLength": 9660
         },
         {
             "buffer": 0,
-            "byteOffset": 93077,
-            "byteLength": 7703
+            "byteOffset": 72085,
+            "byteLength": 6034
         },
         {
             "buffer": 0,
-            "byteOffset": 100780,
-            "byteLength": 40875
+            "byteOffset": 78119,
+            "byteLength": 30483
         },
         {
             "buffer": 0,
-            "byteOffset": 141655,
-            "byteLength": 22891
+            "byteOffset": 108602,
+            "byteLength": 17246
         },
         {
             "buffer": 0,
-            "byteOffset": 164546,
-            "byteLength": 63395
+            "byteOffset": 125848,
+            "byteLength": 47315
         },
         {
             "buffer": 0,
-            "byteOffset": 227941,
-            "byteLength": 406
+            "byteOffset": 173163,
+            "byteLength": 354
         },
         {
             "buffer": 0,
-            "byteOffset": 228347,
-            "byteLength": 1417
+            "byteOffset": 173517,
+            "byteLength": 1106
         },
         {
             "buffer": 0,
-            "byteOffset": 229764,
-            "byteLength": 1248
+            "byteOffset": 174623,
+            "byteLength": 1024
         },
         {
             "buffer": 0,
-            "byteOffset": 231012,
-            "byteLength": 3786
+            "byteOffset": 175647,
+            "byteLength": 2916
         },
         {
             "buffer": 0,
-            "byteOffset": 234798,
-            "byteLength": 8301
+            "byteOffset": 178563,
+            "byteLength": 6309
         },
         {
             "buffer": 0,
-            "byteOffset": 243099,
-            "byteLength": 8301
+            "byteOffset": 184872,
+            "byteLength": 6309
         },
         {
             "buffer": 0,
-            "byteOffset": 251400,
-            "byteLength": 32049
+            "byteOffset": 191181,
+            "byteLength": 24700
         },
         {
             "buffer": 0,
-            "byteOffset": 283449,
-            "byteLength": 735
+            "byteOffset": 215881,
+            "byteLength": 609
         },
         {
             "buffer": 0,
-            "byteOffset": 284184,
-            "byteLength": 735
+            "byteOffset": 216490,
+            "byteLength": 609
         },
         {
             "buffer": 0,
-            "byteOffset": 284919,
-            "byteLength": 34499
+            "byteOffset": 217099,
+            "byteLength": 25356
         },
         {
             "buffer": 0,
-            "byteOffset": 319418,
-            "byteLength": 34499
+            "byteOffset": 242455,
+            "byteLength": 25356
         },
         {
             "buffer": 0,
-            "byteOffset": 353917,
-            "byteLength": 34832
+            "byteOffset": 267811,
+            "byteLength": 25672
         },
         {
             "buffer": 0,
-            "byteOffset": 388749,
-            "byteLength": 3139
+            "byteOffset": 293483,
+            "byteLength": 2565
         },
         {
             "buffer": 0,
-            "byteOffset": 391888,
-            "byteLength": 3139
+            "byteOffset": 296048,
+            "byteLength": 2565
         },
         {
             "buffer": 0,
-            "byteOffset": 395027,
-            "byteLength": 8970
+            "byteOffset": 298613,
+            "byteLength": 7014
         },
         {
             "buffer": 0,
-            "byteOffset": 403997,
-            "byteLength": 5726
+            "byteOffset": 305627,
+            "byteLength": 4558
         },
         {
             "buffer": 0,
-            "byteOffset": 409723,
-            "byteLength": 2704
+            "byteOffset": 310185,
+            "byteLength": 2131
         },
         {
             "buffer": 0,
-            "byteOffset": 412427,
-            "byteLength": 5983
+            "byteOffset": 312316,
+            "byteLength": 4768
         },
         {
             "buffer": 0,
-            "byteOffset": 418410,
-            "byteLength": 4570
+            "byteOffset": 317084,
+            "byteLength": 3585
         },
         {
             "buffer": 0,
-            "byteOffset": 422980,
-            "byteLength": 22997
+            "byteOffset": 320669,
+            "byteLength": 17446
         },
         {
             "buffer": 0,
-            "byteOffset": 445977,
-            "byteLength": 59234
+            "byteOffset": 338115,
+            "byteLength": 45126
         },
         {
             "buffer": 0,
-            "byteOffset": 505211,
-            "byteLength": 16824
+            "byteOffset": 383241,
+            "byteLength": 12984
         },
         {
             "buffer": 0,
-            "byteOffset": 522035,
-            "byteLength": 465
+            "byteOffset": 396225,
+            "byteLength": 407
         },
         {
             "buffer": 0,
-            "byteOffset": 522500,
-            "byteLength": 465
+            "byteOffset": 396632,
+            "byteLength": 407
         },
         {
             "buffer": 0,
-            "byteOffset": 522965,
-            "byteLength": 364
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 523329,
-            "byteLength": 872
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 524201,
-            "byteLength": 2263
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 526464,
-            "byteLength": 1292
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 527756,
-            "byteLength": 364
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 528120,
-            "byteLength": 872
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 528992,
-            "byteLength": 2263
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 531255,
-            "byteLength": 1292
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 532547,
-            "byteLength": 560
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 533107,
-            "byteLength": 616
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 533723,
-            "byteLength": 1600
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 535323,
-            "byteLength": 1987
-        },
-        {
-            "buffer": 0,
-            "byteOffset": 537310,
+            "byteOffset": 397039,
             "byteLength": 316
         },
         {
             "buffer": 0,
-            "byteOffset": 537626,
-            "byteLength": 20884
+            "byteOffset": 397355,
+            "byteLength": 741
         },
         {
             "buffer": 0,
-            "byteOffset": 558510,
-            "byteLength": 1433
+            "byteOffset": 398096,
+            "byteLength": 1800
         },
         {
             "buffer": 0,
-            "byteOffset": 559943,
-            "byteLength": 1433
+            "byteOffset": 399896,
+            "byteLength": 1062
         },
         {
             "buffer": 0,
-            "byteOffset": 561376,
-            "byteLength": 342
+            "byteOffset": 400958,
+            "byteLength": 316
         },
         {
             "buffer": 0,
-            "byteOffset": 561718,
-            "byteLength": 7075
+            "byteOffset": 401274,
+            "byteLength": 741
         },
         {
             "buffer": 0,
-            "byteOffset": 568793,
-            "byteLength": 8237
+            "byteOffset": 402015,
+            "byteLength": 1800
         },
         {
             "buffer": 0,
-            "byteOffset": 577030,
-            "byteLength": 749
+            "byteOffset": 403815,
+            "byteLength": 1062
         },
         {
             "buffer": 0,
-            "byteOffset": 577779,
-            "byteLength": 689
+            "byteOffset": 404877,
+            "byteLength": 453
         },
         {
             "buffer": 0,
-            "byteOffset": 578468,
-            "byteLength": 1599
+            "byteOffset": 405330,
+            "byteLength": 526
         },
         {
             "buffer": 0,
-            "byteOffset": 580067,
-            "byteLength": 29425
+            "byteOffset": 405856,
+            "byteLength": 1314
         },
         {
             "buffer": 0,
-            "byteOffset": 609492,
-            "byteLength": 1324
+            "byteOffset": 407170,
+            "byteLength": 1613
         },
         {
             "buffer": 0,
-            "byteOffset": 610816,
-            "byteLength": 32986
+            "byteOffset": 408783,
+            "byteLength": 291
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 409074,
+            "byteLength": 15643
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 424717,
+            "byteLength": 1172
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 425889,
+            "byteLength": 1172
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 427061,
+            "byteLength": 311
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 427372,
+            "byteLength": 5577
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 432949,
+            "byteLength": 6477
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 439426,
+            "byteLength": 611
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 440037,
+            "byteLength": 583
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 440620,
+            "byteLength": 1227
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 441847,
+            "byteLength": 22720
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 464567,
+            "byteLength": 998
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 465565,
+            "byteLength": 25374
         }
     ],
     "buffers": [
         {
-            "byteLength": 643802,
+            "byteLength": 490939,
             "uri": "ReciprocatingSaw0.bin"
         }
     ],
