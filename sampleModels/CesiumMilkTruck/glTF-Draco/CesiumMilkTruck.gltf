@@ -1,0 +1,401 @@
+{
+    "asset": {
+        "generator": "COLLADA2GLTF",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "children": [
+                3,
+                1
+            ]
+        },
+        {
+            "children": [
+                2
+            ],
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1.352329969406128,
+                0.4277220070362091,
+                -2.98022992950564e-8,
+                1.0
+            ]
+        },
+        {
+            "mesh": 1,
+            "rotation": [
+                -0.0,
+                -0.0,
+                0.08848590403795243,
+                -0.9960774183273317
+            ]
+        },
+        {
+            "children": [
+                4
+            ],
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                1.432669997215271,
+                0.4277220070362091,
+                -2.98022992950564e-8,
+                1.0
+            ]
+        },
+        {
+            "mesh": 1,
+            "rotation": [
+                -0.0,
+                -0.0,
+                0.08848590403795243,
+                -0.9960774183273317
+            ]
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": -1,
+                        "POSITION": -1,
+                        "TEXCOORD_0": -1
+                    },
+                    "indices": -1,
+                    "mode": 4,
+                    "material": 0,
+                    "extensions": {
+                        "KHR_draco_mesh_compression": {
+                            "bufferView": 0,
+                            "indexCount": 5232,
+                            "vertexCount": 1856,
+                            "attributes": [
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
+                            ],
+                            "version": "0.9.1"
+                        }
+                    }
+                },
+                {
+                    "attributes": {
+                        "NORMAL": -1,
+                        "POSITION": -1
+                    },
+                    "indices": -1,
+                    "mode": 4,
+                    "material": 1,
+                    "extensions": {
+                        "KHR_draco_mesh_compression": {
+                            "bufferView": 1,
+                            "indexCount": 168,
+                            "vertexCount": 72,
+                            "attributes": [
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
+                            ],
+                            "version": "0.9.1"
+                        }
+                    }
+                },
+                {
+                    "attributes": {
+                        "NORMAL": -1,
+                        "POSITION": -1
+                    },
+                    "indices": -1,
+                    "mode": 4,
+                    "material": 2,
+                    "extensions": {
+                        "KHR_draco_mesh_compression": {
+                            "bufferView": 2,
+                            "indexCount": 864,
+                            "vertexCount": 464,
+                            "attributes": [
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
+                            ],
+                            "version": "0.9.1"
+                        }
+                    }
+                }
+            ],
+            "name": "Cesium_Milk_Truck"
+        },
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": -1,
+                        "POSITION": -1,
+                        "TEXCOORD_0": -1
+                    },
+                    "indices": -1,
+                    "mode": 4,
+                    "material": 3,
+                    "extensions": {
+                        "KHR_draco_mesh_compression": {
+                            "bufferView": 3,
+                            "indexCount": 2304,
+                            "vertexCount": 586,
+                            "attributes": [
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
+                            ],
+                            "version": "0.9.1"
+                        }
+                    }
+                }
+            ],
+            "name": "Wheels"
+        }
+    ],
+    "animations": [
+        {
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 4,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 1
+                }
+            ]
+        },
+        {
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 2,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 2,
+                    "interpolation": "LINEAR",
+                    "output": 3
+                }
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 31,
+            "max": [
+                1.25
+            ],
+            "min": [
+                0.0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 31,
+            "max": [
+                -0.0,
+                -0.0,
+                0.9990190863609314,
+                1.0
+            ],
+            "min": [
+                -0.0,
+                -0.0,
+                0.0,
+                -0.9960774183273317
+            ],
+            "type": "VEC4"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 124,
+            "componentType": 5126,
+            "count": 31,
+            "max": [
+                1.25
+            ],
+            "min": [
+                0.0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 496,
+            "componentType": 5126,
+            "count": 31,
+            "max": [
+                -0.0,
+                -0.0,
+                0.9990190863609314,
+                1.0
+            ],
+            "min": [
+                -0.0,
+                -0.0,
+                0.0,
+                -0.9960774183273317
+            ],
+            "type": "VEC4"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0
+            },
+            "name": "truck"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.04050629958510399,
+                    0.021240700036287309,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "name": "glass"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.06400000303983689,
+                    0.06400000303983689,
+                    0.06400000303983689,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "name": "window_trim"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0.0
+            },
+            "name": "wheels"
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "images": [
+        {
+            "uri": "CesiumMilkTruck.png"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9986,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 1240,
+            "byteLength": 10891
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 12131,
+            "byteLength": 663
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 12794,
+            "byteLength": 2819
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 15613,
+            "byteLength": 3531
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 992,
+            "byteLength": 248
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 992
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 19144,
+            "uri": "CesiumMilkTruck0.bin"
+        }
+    ],
+    "extensionsUsed": [
+        "KHR_draco_mesh_compression"
+    ]
+}

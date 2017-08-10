@@ -86,12 +86,12 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 349
+            "byteLength": 375
         }
     ],
     "buffers": [
         {
-            "byteLength": 349,
+            "byteLength": 375,
             "uri": "Box0.bin"
         }
     ],

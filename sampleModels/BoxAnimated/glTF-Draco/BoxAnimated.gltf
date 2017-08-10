@@ -1,0 +1,265 @@
+{
+    "asset": {
+        "generator": "COLLADA2GLTF",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "scenes": [
+        {
+            "nodes": [
+                3,
+                0
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "rotation": [
+                -0.0,
+                -0.0,
+                -0.0,
+                -1.0
+            ]
+        },
+        {
+            "children": [
+                2
+            ]
+        },
+        {
+            "mesh": 0,
+            "rotation": [
+                -0.0,
+                -0.0,
+                -0.0,
+                -1.0
+            ]
+        },
+        {
+            "mesh": 1
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": -1,
+                        "POSITION": -1
+                    },
+                    "indices": -1,
+                    "mode": 4,
+                    "material": 0,
+                    "extensions": {
+                        "KHR_draco_mesh_compression": {
+                            "bufferView": 0,
+                            "indexCount": 186,
+                            "vertexCount": 96,
+                            "attributes": [
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
+                            ],
+                            "version": "0.9.1"
+                        }
+                    }
+                }
+            ],
+            "name": "inner_box"
+        },
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": -1,
+                        "POSITION": -1
+                    },
+                    "indices": -1,
+                    "mode": 4,
+                    "material": 1,
+                    "extensions": {
+                        "KHR_draco_mesh_compression": {
+                            "bufferView": 1,
+                            "indexCount": 576,
+                            "vertexCount": 224,
+                            "attributes": [
+                                "NORMAL",
+                                "POSITION",
+                                "TEXCOORD_0"
+                            ],
+                            "version": "0.9.1"
+                        }
+                    }
+                }
+            ],
+            "name": "outer_box"
+        }
+    ],
+    "animations": [
+        {
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 2,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 1
+                }
+            ]
+        },
+        {
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 0,
+                        "path": "translation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 2,
+                    "interpolation": "LINEAR",
+                    "output": 3
+                }
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2,
+            "max": [
+                2.5
+            ],
+            "min": [
+                1.25
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2,
+            "max": [
+                1.0,
+                0.0,
+                0.0,
+                4.4896593387466768e-11
+            ],
+            "min": [
+                -0.0,
+                0.0,
+                0.0,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 8,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                3.708329916000366
+            ],
+            "min": [
+                0.0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                0.0,
+                2.5199999809265138,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC3"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.4159420132637024,
+                    0.7952920198440552,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "name": "inner"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.3016040027141571,
+                    0.5335419774055481,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "name": "outer"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 104,
+            "byteLength": 1137
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1241,
+            "byteLength": 2333
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 80,
+            "byteLength": 24
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 32
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 32,
+            "byteLength": 48
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3574,
+            "uri": "BoxAnimated0.bin"
+        }
+    ],
+    "extensionsUsed": [
+        "KHR_draco_mesh_compression"
+    ]
+}

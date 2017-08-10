@@ -85,12 +85,12 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 225
+            "byteLength": 235
         }
     ],
     "buffers": [
         {
-            "byteLength": 225,
+            "byteLength": 235,
             "uri": "BoxWithoutIndices0.bin"
         }
     ],
