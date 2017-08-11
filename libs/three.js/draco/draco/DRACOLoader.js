@@ -240,7 +240,10 @@ THREE.DRACOLoader.prototype = {
         // Get Skin attributes
         var jointsAttributeData;
         var jointsAttId = attributes_map['JOINTS_0']; 
-        if (jointsAttId != undefined) {
+        if (jointsAttId === undefined) {
+          jointsAttId = -1;
+        }
+        if (jointsAttId != -1) {
           var jointsAttribute = decoder.GetAttribute(dracoGeometry,
                                                     jointsAttId);
           jointsAttributeData = new dracoDecoder.DracoFloat32Array();
@@ -252,7 +255,10 @@ THREE.DRACOLoader.prototype = {
         // Get weights attributes
         var weightsAttributeData;
         var weightsAttId = attributes_map['WEIGHTS_0']; 
-        if (weightsAttId != undefined) {
+        if (weightsAttId === undefined) {
+          weightsAttId = -1;
+        }
+        if (weightsAttId != -1) {
           var weightsAttribute = decoder.GetAttribute(dracoGeometry,
                                                       weightsAttId);
           weightsAttributeData = new dracoDecoder.DracoFloat32Array();
