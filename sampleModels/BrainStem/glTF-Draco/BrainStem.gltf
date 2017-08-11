@@ -5228,6 +5228,9 @@
             "uri": "BrainStem0.bin"
         }
     ],
+    "extensionsRequired": [
+        "KHR_draco_mesh_compression"
+    ],
     "extensionsUsed": [
         "KHR_draco_mesh_compression"
     ]

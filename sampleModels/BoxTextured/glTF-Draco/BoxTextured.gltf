@@ -109,6 +109,9 @@
             "uri": "data:application/octet-stream;base64,RFJBQ08CAAEBAAAAABgMAgwAJAUAAAAAAAAA3/d93wcBAAAAAAAAAAD/AgAAAMxA/wIAAADMQAAAAwAAAP8AAAEAAAEBCQMAAAMBAAkDAAECAQMJAgACAgADAQEK/wdatQH/////////91UVASD/////////81UVCLQTf2nAW6rB/wMAAP8BAAAKAQEBAQIDAShxDJELDsiBNS5451f/UbaFrNy1AAAAAP8/AAAAAAC/AAAAvwAAAL8AAIA/DgEBAQEKgAhV1f//////RwEgrSqtSlV1//////9LVRX//////0+tChAw3ZkjJCVNlmIKrmNmde+/AAAAAP8DAAAAAAAAAAAAAAAAwEAK"
         }
     ],
+    "extensionsRequired": [
+        "KHR_draco_mesh_compression"
+    ],
     "extensionsUsed": [
         "KHR_draco_mesh_compression"
     ]
