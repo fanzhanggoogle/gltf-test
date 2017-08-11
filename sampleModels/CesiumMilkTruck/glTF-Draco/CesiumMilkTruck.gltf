@@ -99,14 +99,11 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 0,
-                            "indexCount": 5232,
-                            "vertexCount": 1856,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION",
-                                "TEXCOORD_0"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "TEXCOORD_0": 2,
+                                "NORMAL": 0,
+                                "POSITION": 1
+                            }
                         }
                     }
                 },
@@ -121,14 +118,11 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 1,
-                            "indexCount": 168,
-                            "vertexCount": 72,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION",
-                                "TEXCOORD_0"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "TEXCOORD_0": 2,
+                                "NORMAL": 0,
+                                "POSITION": 1
+                            }
                         }
                     }
                 },
@@ -143,14 +137,11 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 2,
-                            "indexCount": 864,
-                            "vertexCount": 464,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION",
-                                "TEXCOORD_0"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "TEXCOORD_0": 2,
+                                "NORMAL": 0,
+                                "POSITION": 1
+                            }
                         }
                     }
                 }
@@ -171,14 +162,11 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 3,
-                            "indexCount": 2304,
-                            "vertexCount": 586,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION",
-                                "TEXCOORD_0"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "TEXCOORD_0": 2,
+                                "NORMAL": 0,
+                                "POSITION": 1
+                            }
                         }
                     }
                 }
@@ -361,22 +349,22 @@
         {
             "buffer": 0,
             "byteOffset": 1240,
-            "byteLength": 10891
+            "byteLength": 13611
         },
         {
             "buffer": 0,
-            "byteOffset": 12131,
-            "byteLength": 663
+            "byteOffset": 14851,
+            "byteLength": 724
         },
         {
             "buffer": 0,
-            "byteOffset": 12794,
-            "byteLength": 2819
+            "byteOffset": 15575,
+            "byteLength": 3226
         },
         {
             "buffer": 0,
-            "byteOffset": 15613,
-            "byteLength": 3531
+            "byteOffset": 18801,
+            "byteLength": 4534
         },
         {
             "buffer": 0,
@@ -391,7 +379,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 19144,
+            "byteLength": 23335,
             "uri": "CesiumMilkTruck0.bin"
         }
     ],

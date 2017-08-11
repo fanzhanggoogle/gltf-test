@@ -1747,13 +1747,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 0,
-                            "indexCount": 8250,
-                            "vertexCount": 2012,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 },
@@ -1768,13 +1765,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 1,
-                            "indexCount": 5034,
-                            "vertexCount": 1296,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -1794,13 +1788,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 2,
-                            "indexCount": 936,
-                            "vertexCount": 264,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -1820,13 +1811,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 3,
-                            "indexCount": 1845,
-                            "vertexCount": 670,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -1846,13 +1834,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 4,
-                            "indexCount": 6489,
-                            "vertexCount": 1553,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -1872,13 +1857,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 5,
-                            "indexCount": 9267,
-                            "vertexCount": 2470,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -1898,13 +1880,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 6,
-                            "indexCount": 4839,
-                            "vertexCount": 1382,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -1924,13 +1903,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 7,
-                            "indexCount": 123,
-                            "vertexCount": 43,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 },
@@ -1945,13 +1921,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 8,
-                            "indexCount": 123,
-                            "vertexCount": 43,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 },
@@ -1966,13 +1939,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 9,
-                            "indexCount": 4842,
-                            "vertexCount": 870,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -1992,13 +1962,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 10,
-                            "indexCount": 987,
-                            "vertexCount": 294,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2018,13 +1985,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 11,
-                            "indexCount": 2145,
-                            "vertexCount": 624,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2044,13 +2008,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 12,
-                            "indexCount": 1566,
-                            "vertexCount": 408,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2070,13 +2031,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 13,
-                            "indexCount": 1359,
-                            "vertexCount": 340,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2096,13 +2054,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 14,
-                            "indexCount": 1032,
-                            "vertexCount": 324,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2122,13 +2077,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 15,
-                            "indexCount": 288,
-                            "vertexCount": 96,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2148,13 +2100,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 16,
-                            "indexCount": 1266,
-                            "vertexCount": 348,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2174,13 +2123,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 17,
-                            "indexCount": 5787,
-                            "vertexCount": 1409,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2200,13 +2146,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 18,
-                            "indexCount": 8964,
-                            "vertexCount": 1940,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2226,13 +2169,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 19,
-                            "indexCount": 10167,
-                            "vertexCount": 1754,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2252,13 +2192,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 20,
-                            "indexCount": 10125,
-                            "vertexCount": 1749,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2278,13 +2215,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 21,
-                            "indexCount": 21150,
-                            "vertexCount": 5474,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2304,13 +2238,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 22,
-                            "indexCount": 1359,
-                            "vertexCount": 372,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2330,13 +2261,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 23,
-                            "indexCount": 684,
-                            "vertexCount": 240,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2356,13 +2284,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 24,
-                            "indexCount": 5889,
-                            "vertexCount": 1414,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2382,13 +2307,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 25,
-                            "indexCount": 20607,
-                            "vertexCount": 5364,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2408,13 +2330,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 26,
-                            "indexCount": 573,
-                            "vertexCount": 192,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2434,13 +2353,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 27,
-                            "indexCount": 32934,
-                            "vertexCount": 8618,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2460,13 +2376,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 28,
-                            "indexCount": 33420,
-                            "vertexCount": 8618,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2486,13 +2399,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 29,
-                            "indexCount": 17691,
-                            "vertexCount": 3672,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2512,13 +2422,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 30,
-                            "indexCount": 3903,
-                            "vertexCount": 1281,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 },
@@ -2533,13 +2440,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 31,
-                            "indexCount": 960,
-                            "vertexCount": 180,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -2559,13 +2463,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 32,
-                            "indexCount": 423,
-                            "vertexCount": 143,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 },
@@ -2580,13 +2481,10 @@
                     "extensions": {
                         "KHR_draco_mesh_compression": {
                             "bufferView": 33,
-                            "indexCount": 2163,
-                            "vertexCount": 386,
-                            "attributes": [
-                                "NORMAL",
-                                "POSITION"
-                            ],
-                            "version": "0.9.1"
+                            "attributes": {
+                                "POSITION": 1,
+                                "NORMAL": 0
+                            }
                         }
                     }
                 }
@@ -3178,177 +3076,177 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 10160
+            "byteLength": 11966
         },
         {
             "buffer": 0,
-            "byteOffset": 10160,
-            "byteLength": 5156
+            "byteOffset": 11966,
+            "byteLength": 6591
         },
         {
             "buffer": 0,
-            "byteOffset": 15316,
-            "byteLength": 1123
+            "byteOffset": 18557,
+            "byteLength": 1300
         },
         {
             "buffer": 0,
-            "byteOffset": 16439,
-            "byteLength": 3088
+            "byteOffset": 19857,
+            "byteLength": 3784
         },
         {
             "buffer": 0,
-            "byteOffset": 19527,
-            "byteLength": 6278
+            "byteOffset": 23641,
+            "byteLength": 7683
         },
         {
             "buffer": 0,
-            "byteOffset": 25805,
-            "byteLength": 10251
+            "byteOffset": 31324,
+            "byteLength": 12371
         },
         {
             "buffer": 0,
-            "byteOffset": 36056,
-            "byteLength": 5126
+            "byteOffset": 43695,
+            "byteLength": 6272
         },
         {
             "buffer": 0,
-            "byteOffset": 41182,
-            "byteLength": 388
+            "byteOffset": 49967,
+            "byteLength": 357
         },
         {
             "buffer": 0,
-            "byteOffset": 41570,
-            "byteLength": 389
+            "byteOffset": 50324,
+            "byteLength": 357
         },
         {
             "buffer": 0,
-            "byteOffset": 41959,
-            "byteLength": 3380
+            "byteOffset": 50681,
+            "byteLength": 4728
         },
         {
             "buffer": 0,
-            "byteOffset": 45339,
-            "byteLength": 1369
+            "byteOffset": 55409,
+            "byteLength": 1669
         },
         {
             "buffer": 0,
-            "byteOffset": 46708,
-            "byteLength": 2724
+            "byteOffset": 57078,
+            "byteLength": 3391
         },
         {
             "buffer": 0,
-            "byteOffset": 49432,
-            "byteLength": 1904
+            "byteOffset": 60469,
+            "byteLength": 2177
         },
         {
             "buffer": 0,
-            "byteOffset": 51336,
-            "byteLength": 1609
+            "byteOffset": 62646,
+            "byteLength": 1814
         },
         {
             "buffer": 0,
-            "byteOffset": 52945,
-            "byteLength": 1308
+            "byteOffset": 64460,
+            "byteLength": 1531
         },
         {
             "buffer": 0,
-            "byteOffset": 54253,
-            "byteLength": 512
+            "byteOffset": 65991,
+            "byteLength": 553
         },
         {
             "buffer": 0,
-            "byteOffset": 54765,
-            "byteLength": 1502
+            "byteOffset": 66544,
+            "byteLength": 1824
         },
         {
             "buffer": 0,
-            "byteOffset": 56267,
-            "byteLength": 6678
+            "byteOffset": 68368,
+            "byteLength": 7850
         },
         {
             "buffer": 0,
-            "byteOffset": 62945,
-            "byteLength": 7701
+            "byteOffset": 76218,
+            "byteLength": 9764
         },
         {
             "buffer": 0,
-            "byteOffset": 70646,
-            "byteLength": 7904
+            "byteOffset": 85982,
+            "byteLength": 10315
         },
         {
             "buffer": 0,
-            "byteOffset": 78550,
-            "byteLength": 8015
+            "byteOffset": 96297,
+            "byteLength": 10241
         },
         {
             "buffer": 0,
-            "byteOffset": 86565,
-            "byteLength": 22681
+            "byteOffset": 106538,
+            "byteLength": 27029
         },
         {
             "buffer": 0,
-            "byteOffset": 109246,
-            "byteLength": 1744
+            "byteOffset": 133567,
+            "byteLength": 1974
         },
         {
             "buffer": 0,
-            "byteOffset": 110990,
-            "byteLength": 1012
+            "byteOffset": 135541,
+            "byteLength": 1103
         },
         {
             "buffer": 0,
-            "byteOffset": 112002,
-            "byteLength": 6743
+            "byteOffset": 136644,
+            "byteLength": 7932
         },
         {
             "buffer": 0,
-            "byteOffset": 118745,
-            "byteLength": 22166
+            "byteOffset": 144576,
+            "byteLength": 26311
         },
         {
             "buffer": 0,
-            "byteOffset": 140911,
-            "byteLength": 680
+            "byteOffset": 170887,
+            "byteLength": 813
         },
         {
             "buffer": 0,
-            "byteOffset": 141591,
-            "byteLength": 29036
+            "byteOffset": 171700,
+            "byteLength": 36315
         },
         {
             "buffer": 0,
-            "byteOffset": 170627,
-            "byteLength": 29071
+            "byteOffset": 208015,
+            "byteLength": 36417
         },
         {
             "buffer": 0,
-            "byteOffset": 199698,
-            "byteLength": 16052
+            "byteOffset": 244432,
+            "byteLength": 19344
         },
         {
             "buffer": 0,
-            "byteOffset": 215750,
-            "byteLength": 5072
+            "byteOffset": 263776,
+            "byteLength": 5995
         },
         {
             "buffer": 0,
-            "byteOffset": 220822,
-            "byteLength": 1095
+            "byteOffset": 269771,
+            "byteLength": 1302
         },
         {
             "buffer": 0,
-            "byteOffset": 221917,
-            "byteLength": 657
+            "byteOffset": 271073,
+            "byteLength": 771
         },
         {
             "buffer": 0,
-            "byteOffset": 222574,
-            "byteLength": 2006
+            "byteOffset": 271844,
+            "byteLength": 2452
         }
     ],
     "buffers": [
         {
-            "byteLength": 224580,
+            "byteLength": 274296,
             "uri": "2CylinderEngine0.bin"
         }
     ],
