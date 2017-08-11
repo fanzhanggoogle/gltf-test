@@ -565,10 +565,11 @@ THREE.GLTF2Loader = ( function () {
 
 		var bufferViewID = primitive.extensions[ this.name ].bufferView;
 		var bufferView = dependencies.bufferViews[ bufferViewID ];
+    var attributes_map = primitive.extensions[ this.name ].attributes;
 
 		var dracoLoader = this.dracoLoader;
 
-		dracoLoader.decodeDracoFile( bufferView, onDecode );
+		dracoLoader.decodeDracoFile( bufferView, attributes_map, onDecode );
 
 		// dracoLoader.isVersionSupported( primitive.extensions[ this.name ], function ( isSupported ) {
 
