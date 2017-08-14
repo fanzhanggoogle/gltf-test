@@ -224,12 +224,12 @@
         {
             "buffer": 0,
             "byteOffset": 104,
-            "byteLength": 780
+            "byteLength": 573
         },
         {
             "buffer": 0,
-            "byteOffset": 884,
-            "byteLength": 2225
+            "byteOffset": 677,
+            "byteLength": 1642
         },
         {
             "buffer": 0,
@@ -249,7 +249,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 3109,
+            "byteLength": 2319,
             "uri": "BoxAnimated0.bin"
         }
     ],

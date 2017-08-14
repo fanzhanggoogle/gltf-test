@@ -4332,7 +4332,7 @@
         {
             "buffer": 0,
             "byteOffset": 144256,
-            "byteLength": 32244
+            "byteLength": 30368
         },
         {
             "buffer": 0,
@@ -4357,7 +4357,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 176500,
+            "byteLength": 174624,
             "uri": "Monster0.bin"
         }
     ],

@@ -411,7 +411,7 @@
         {
             "buffer": 0,
             "byteOffset": 392,
-            "byteLength": 3926
+            "byteLength": 3736
         },
         {
             "buffer": 0,
@@ -436,7 +436,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 4318,
+            "byteLength": 4128,
             "uri": "RiggedSimple0.bin"
         }
     ],

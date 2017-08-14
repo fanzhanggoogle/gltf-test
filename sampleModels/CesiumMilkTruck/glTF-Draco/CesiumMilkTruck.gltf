@@ -349,22 +349,22 @@
         {
             "buffer": 0,
             "byteOffset": 1240,
-            "byteLength": 13611
+            "byteLength": 9611
         },
         {
             "buffer": 0,
-            "byteOffset": 14851,
-            "byteLength": 724
+            "byteOffset": 10851,
+            "byteLength": 574
         },
         {
             "buffer": 0,
-            "byteOffset": 15575,
-            "byteLength": 3226
+            "byteOffset": 11425,
+            "byteLength": 2404
         },
         {
             "buffer": 0,
-            "byteOffset": 18801,
-            "byteLength": 4534
+            "byteOffset": 13829,
+            "byteLength": 2985
         },
         {
             "buffer": 0,
@@ -379,7 +379,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 23335,
+            "byteLength": 16814,
             "uri": "CesiumMilkTruck0.bin"
         }
     ],

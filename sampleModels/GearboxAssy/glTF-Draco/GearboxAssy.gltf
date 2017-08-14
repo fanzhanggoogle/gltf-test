@@ -4438,162 +4438,162 @@
         {
             "buffer": 0,
             "byteOffset": 2497980,
-            "byteLength": 4780
+            "byteLength": 3278
         },
         {
             "buffer": 0,
-            "byteOffset": 2502760,
-            "byteLength": 934
+            "byteOffset": 2501258,
+            "byteLength": 742
         },
         {
             "buffer": 0,
-            "byteOffset": 2503694,
-            "byteLength": 729
+            "byteOffset": 2502000,
+            "byteLength": 568
         },
         {
             "buffer": 0,
-            "byteOffset": 2504423,
-            "byteLength": 701
+            "byteOffset": 2502568,
+            "byteLength": 541
         },
         {
             "buffer": 0,
-            "byteOffset": 2505124,
-            "byteLength": 4867
+            "byteOffset": 2503109,
+            "byteLength": 3260
         },
         {
             "buffer": 0,
-            "byteOffset": 2509991,
-            "byteLength": 3606
+            "byteOffset": 2506369,
+            "byteLength": 2164
         },
         {
             "buffer": 0,
-            "byteOffset": 2513597,
-            "byteLength": 11920
+            "byteOffset": 2508533,
+            "byteLength": 7747
         },
         {
             "buffer": 0,
-            "byteOffset": 2525517,
-            "byteLength": 10299
+            "byteOffset": 2516280,
+            "byteLength": 6950
         },
         {
             "buffer": 0,
-            "byteOffset": 2535816,
-            "byteLength": 4419
+            "byteOffset": 2523230,
+            "byteLength": 2989
         },
         {
             "buffer": 0,
-            "byteOffset": 2540235,
-            "byteLength": 98028
+            "byteOffset": 2526219,
+            "byteLength": 59753
         },
         {
             "buffer": 0,
-            "byteOffset": 2638263,
-            "byteLength": 719
+            "byteOffset": 2585972,
+            "byteLength": 560
         },
         {
             "buffer": 0,
-            "byteOffset": 2638982,
-            "byteLength": 64083
+            "byteOffset": 2586532,
+            "byteLength": 40652
         },
         {
             "buffer": 0,
-            "byteOffset": 2703065,
-            "byteLength": 20716
+            "byteOffset": 2627184,
+            "byteLength": 12243
         },
         {
             "buffer": 0,
-            "byteOffset": 2723781,
-            "byteLength": 668
+            "byteOffset": 2639427,
+            "byteLength": 537
         },
         {
             "buffer": 0,
-            "byteOffset": 2724449,
-            "byteLength": 4968
+            "byteOffset": 2639964,
+            "byteLength": 3611
         },
         {
             "buffer": 0,
-            "byteOffset": 2729417,
-            "byteLength": 1129
+            "byteOffset": 2643575,
+            "byteLength": 802
         },
         {
             "buffer": 0,
-            "byteOffset": 2730546,
-            "byteLength": 71140
+            "byteOffset": 2644377,
+            "byteLength": 44803
         },
         {
             "buffer": 0,
-            "byteOffset": 2801686,
-            "byteLength": 7209
+            "byteOffset": 2689180,
+            "byteLength": 4575
         },
         {
             "buffer": 0,
-            "byteOffset": 2808895,
-            "byteLength": 12327
+            "byteOffset": 2693755,
+            "byteLength": 8082
         },
         {
             "buffer": 0,
-            "byteOffset": 2821222,
-            "byteLength": 5720
+            "byteOffset": 2701837,
+            "byteLength": 3366
         },
         {
             "buffer": 0,
-            "byteOffset": 2826942,
-            "byteLength": 11944
+            "byteOffset": 2705203,
+            "byteLength": 7636
         },
         {
             "buffer": 0,
-            "byteOffset": 2838886,
-            "byteLength": 1770
+            "byteOffset": 2712839,
+            "byteLength": 1318
         },
         {
             "buffer": 0,
-            "byteOffset": 2840656,
-            "byteLength": 2038
+            "byteOffset": 2714157,
+            "byteLength": 1436
         },
         {
             "buffer": 0,
-            "byteOffset": 2842694,
-            "byteLength": 3362
+            "byteOffset": 2715593,
+            "byteLength": 2373
         },
         {
             "buffer": 0,
-            "byteOffset": 2846056,
-            "byteLength": 20890
+            "byteOffset": 2717966,
+            "byteLength": 13685
         },
         {
             "buffer": 0,
-            "byteOffset": 2866946,
-            "byteLength": 14704
+            "byteOffset": 2731651,
+            "byteLength": 8524
         },
         {
             "buffer": 0,
-            "byteOffset": 2881650,
-            "byteLength": 71140
+            "byteOffset": 2740175,
+            "byteLength": 44803
         },
         {
             "buffer": 0,
-            "byteOffset": 2952790,
-            "byteLength": 10911
+            "byteOffset": 2784978,
+            "byteLength": 6466
         },
         {
             "buffer": 0,
-            "byteOffset": 2963701,
-            "byteLength": 82990
+            "byteOffset": 2791444,
+            "byteLength": 50954
         },
         {
             "buffer": 0,
-            "byteOffset": 3046691,
-            "byteLength": 38276
+            "byteOffset": 2842398,
+            "byteLength": 24197
         },
         {
             "buffer": 0,
-            "byteOffset": 3084967,
-            "byteLength": 81947
+            "byteOffset": 2866595,
+            "byteLength": 50707
         },
         {
             "buffer": 0,
-            "byteOffset": 3166914,
-            "byteLength": 6459
+            "byteOffset": 2917302,
+            "byteLength": 3985
         },
         {
             "buffer": 0,
@@ -4611,7 +4611,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 3173373,
+            "byteLength": 2921287,
             "uri": "GearboxAssy0.bin"
         }
     ],

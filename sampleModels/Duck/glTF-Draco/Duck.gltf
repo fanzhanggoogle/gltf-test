@@ -138,12 +138,12 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 17505
+            "byteLength": 11354
         }
     ],
     "buffers": [
         {
-            "byteLength": 17505,
+            "byteLength": 11354,
             "uri": "Duck0.bin"
         }
     ],

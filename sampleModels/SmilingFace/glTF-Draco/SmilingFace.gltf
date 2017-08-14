@@ -85,12 +85,12 @@
         {
             "buffer": 0,
             "byteOffset": 0,
-            "byteLength": 49678
+            "byteLength": 12291
         }
     ],
     "buffers": [
         {
-            "byteLength": 49678,
+            "byteLength": 12291,
             "uri": "SmilingFace0.bin"
         }
     ],
