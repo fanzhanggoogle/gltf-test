@@ -21,12 +21,12 @@
             "primitives": [
                 {
                     "attributes": {
-                        "COLOR_0": -1,
-                        "NORMAL": -1,
-                        "POSITION": -1,
-                        "TEXCOORD_0": -1
+                        "COLOR_0": 1,
+                        "NORMAL": 2,
+                        "POSITION": 3,
+                        "TEXCOORD_0": 4
                     },
-                    "indices": -1,
+                    "indices": 0,
                     "mode": 4,
                     "material": 0,
                     "extensions": {
@@ -44,6 +44,82 @@
                 }
             ],
             "name": "meshId0_name"
+        }
+    ],
+    "accessors": [
+        {
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 14592,
+            "max": [
+                2550
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2551,
+            "max": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2551,
+            "max": [
+                0.9999155402183532,
+                0.9999614953994752,
+                0.9995511770248412
+            ],
+            "min": [
+                -0.9999155402183532,
+                -0.9979230761528016,
+                -0.9998226165771484
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2551,
+            "max": [
+                0.8106791973114014,
+                0.8187642097473145,
+                0.7583367228507996
+            ],
+            "min": [
+                -0.8106791973114014,
+                -0.8187640905380249,
+                -0.8632781505584717
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2551,
+            "max": [
+                0.9917339086532592,
+                0.98796808719635
+            ],
+            "min": [
+                0.011699199676513672,
+                0.0060114264488220219
+            ],
+            "type": "VEC2"
         }
     ],
     "materials": [
