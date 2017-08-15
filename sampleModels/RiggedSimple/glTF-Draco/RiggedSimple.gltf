@@ -90,12 +90,12 @@
             "primitives": [
                 {
                     "attributes": {
-                        "JOINTS_0": -1,
-                        "NORMAL": -1,
-                        "POSITION": -1,
-                        "WEIGHTS_0": -1
+                        "JOINTS_0": 1,
+                        "NORMAL": 2,
+                        "POSITION": 3,
+                        "WEIGHTS_0": 4
                     },
-                    "indices": -1,
+                    "indices": 0,
                     "mode": 4,
                     "material": 0,
                     "extensions": {
@@ -141,19 +141,19 @@
             ],
             "samplers": [
                 {
-                    "input": 0,
+                    "input": 5,
                     "interpolation": "LINEAR",
-                    "output": 1
+                    "output": 6
                 },
                 {
-                    "input": 0,
+                    "input": 5,
                     "interpolation": "LINEAR",
-                    "output": 2
+                    "output": 7
                 },
                 {
-                    "input": 0,
+                    "input": 5,
                     "interpolation": "LINEAR",
-                    "output": 3
+                    "output": 8
                 }
             ]
         },
@@ -183,26 +183,26 @@
             ],
             "samplers": [
                 {
-                    "input": 4,
+                    "input": 9,
                     "interpolation": "LINEAR",
-                    "output": 5
+                    "output": 10
                 },
                 {
-                    "input": 4,
+                    "input": 9,
                     "interpolation": "LINEAR",
-                    "output": 6
+                    "output": 11
                 },
                 {
-                    "input": 4,
+                    "input": 9,
                     "interpolation": "LINEAR",
-                    "output": 7
+                    "output": 12
                 }
             ]
         }
     ],
     "skins": [
         {
-            "inverseBindMatrices": 8,
+            "inverseBindMatrices": 13,
             "skeleton": 2,
             "joints": [
                 2,
@@ -212,6 +212,86 @@
         }
     ],
     "accessors": [
+        {
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 564,
+            "max": [
+                95
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 96,
+            "max": [
+                1,
+                1,
+                0,
+                0
+            ],
+            "min": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                0.998198390007019,
+                0.998198390007019,
+                0.6888381242752075
+            ],
+            "min": [
+                -0.998198390007019,
+                -0.998198390007019,
+                -0.6444730758666992
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                1.0,
+                1.0,
+                4.575077056884766
+            ],
+            "min": [
+                -1.0,
+                -0.9999995827674866,
+                -4.575077056884766
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                1.0,
+                0.26139819622039797,
+                0.0,
+                0.0
+            ],
+            "min": [
+                0.738601803779602,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC4"
+        },
         {
             "bufferView": 1,
             "byteOffset": 0,

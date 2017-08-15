@@ -330,12 +330,12 @@
             "primitives": [
                 {
                     "attributes": {
-                        "JOINTS_0": -1,
-                        "NORMAL": -1,
-                        "POSITION": -1,
-                        "WEIGHTS_0": -1
+                        "JOINTS_0": 1,
+                        "NORMAL": 2,
+                        "POSITION": 3,
+                        "WEIGHTS_0": 4
                     },
-                    "indices": -1,
+                    "indices": 0,
                     "mode": 4,
                     "material": 0,
                     "extensions": {
@@ -381,61 +381,19 @@
             ],
             "samplers": [
                 {
-                    "input": 0,
-                    "interpolation": "LINEAR",
-                    "output": 1
-                },
-                {
-                    "input": 0,
-                    "interpolation": "LINEAR",
-                    "output": 2
-                },
-                {
-                    "input": 0,
-                    "interpolation": "LINEAR",
-                    "output": 3
-                }
-            ]
-        },
-        {
-            "channels": [
-                {
-                    "sampler": 0,
-                    "target": {
-                        "node": 8,
-                        "path": "translation"
-                    }
-                },
-                {
-                    "sampler": 1,
-                    "target": {
-                        "node": 8,
-                        "path": "rotation"
-                    }
-                },
-                {
-                    "sampler": 2,
-                    "target": {
-                        "node": 8,
-                        "path": "scale"
-                    }
-                }
-            ],
-            "samplers": [
-                {
-                    "input": 4,
-                    "interpolation": "LINEAR",
-                    "output": 5
-                },
-                {
-                    "input": 4,
+                    "input": 5,
                     "interpolation": "LINEAR",
                     "output": 6
                 },
                 {
-                    "input": 4,
+                    "input": 5,
                     "interpolation": "LINEAR",
                     "output": 7
+                },
+                {
+                    "input": 5,
+                    "interpolation": "LINEAR",
+                    "output": 8
                 }
             ]
         },
@@ -444,40 +402,40 @@
                 {
                     "sampler": 0,
                     "target": {
-                        "node": 15,
+                        "node": 8,
                         "path": "translation"
                     }
                 },
                 {
                     "sampler": 1,
                     "target": {
-                        "node": 15,
+                        "node": 8,
                         "path": "rotation"
                     }
                 },
                 {
                     "sampler": 2,
                     "target": {
-                        "node": 15,
+                        "node": 8,
                         "path": "scale"
                     }
                 }
             ],
             "samplers": [
                 {
-                    "input": 8,
-                    "interpolation": "LINEAR",
-                    "output": 9
-                },
-                {
-                    "input": 8,
+                    "input": 9,
                     "interpolation": "LINEAR",
                     "output": 10
                 },
                 {
-                    "input": 8,
+                    "input": 9,
                     "interpolation": "LINEAR",
                     "output": 11
+                },
+                {
+                    "input": 9,
+                    "interpolation": "LINEAR",
+                    "output": 12
                 }
             ]
         },
@@ -486,40 +444,40 @@
                 {
                     "sampler": 0,
                     "target": {
-                        "node": 12,
+                        "node": 15,
                         "path": "translation"
                     }
                 },
                 {
                     "sampler": 1,
                     "target": {
-                        "node": 12,
+                        "node": 15,
                         "path": "rotation"
                     }
                 },
                 {
                     "sampler": 2,
                     "target": {
-                        "node": 12,
+                        "node": 15,
                         "path": "scale"
                     }
                 }
             ],
             "samplers": [
                 {
-                    "input": 12,
-                    "interpolation": "LINEAR",
-                    "output": 13
-                },
-                {
-                    "input": 12,
+                    "input": 13,
                     "interpolation": "LINEAR",
                     "output": 14
                 },
                 {
-                    "input": 12,
+                    "input": 13,
                     "interpolation": "LINEAR",
                     "output": 15
+                },
+                {
+                    "input": 13,
+                    "interpolation": "LINEAR",
+                    "output": 16
                 }
             ]
         },
@@ -528,40 +486,40 @@
                 {
                     "sampler": 0,
                     "target": {
-                        "node": 13,
+                        "node": 12,
                         "path": "translation"
                     }
                 },
                 {
                     "sampler": 1,
                     "target": {
-                        "node": 13,
+                        "node": 12,
                         "path": "rotation"
                     }
                 },
                 {
                     "sampler": 2,
                     "target": {
-                        "node": 13,
+                        "node": 12,
                         "path": "scale"
                     }
                 }
             ],
             "samplers": [
                 {
-                    "input": 16,
-                    "interpolation": "LINEAR",
-                    "output": 17
-                },
-                {
-                    "input": 16,
+                    "input": 17,
                     "interpolation": "LINEAR",
                     "output": 18
                 },
                 {
-                    "input": 16,
+                    "input": 17,
                     "interpolation": "LINEAR",
                     "output": 19
+                },
+                {
+                    "input": 17,
+                    "interpolation": "LINEAR",
+                    "output": 20
                 }
             ]
         },
@@ -570,40 +528,40 @@
                 {
                     "sampler": 0,
                     "target": {
-                        "node": 9,
+                        "node": 13,
                         "path": "translation"
                     }
                 },
                 {
                     "sampler": 1,
                     "target": {
-                        "node": 9,
+                        "node": 13,
                         "path": "rotation"
                     }
                 },
                 {
                     "sampler": 2,
                     "target": {
-                        "node": 9,
+                        "node": 13,
                         "path": "scale"
                     }
                 }
             ],
             "samplers": [
                 {
-                    "input": 20,
-                    "interpolation": "LINEAR",
-                    "output": 21
-                },
-                {
-                    "input": 20,
+                    "input": 21,
                     "interpolation": "LINEAR",
                     "output": 22
                 },
                 {
-                    "input": 20,
+                    "input": 21,
                     "interpolation": "LINEAR",
                     "output": 23
+                },
+                {
+                    "input": 21,
+                    "interpolation": "LINEAR",
+                    "output": 24
                 }
             ]
         },
@@ -612,40 +570,40 @@
                 {
                     "sampler": 0,
                     "target": {
-                        "node": 5,
+                        "node": 9,
                         "path": "translation"
                     }
                 },
                 {
                     "sampler": 1,
                     "target": {
-                        "node": 5,
+                        "node": 9,
                         "path": "rotation"
                     }
                 },
                 {
                     "sampler": 2,
                     "target": {
-                        "node": 5,
+                        "node": 9,
                         "path": "scale"
                     }
                 }
             ],
             "samplers": [
                 {
-                    "input": 24,
-                    "interpolation": "LINEAR",
-                    "output": 25
-                },
-                {
-                    "input": 24,
+                    "input": 25,
                     "interpolation": "LINEAR",
                     "output": 26
                 },
                 {
-                    "input": 24,
+                    "input": 25,
                     "interpolation": "LINEAR",
                     "output": 27
+                },
+                {
+                    "input": 25,
+                    "interpolation": "LINEAR",
+                    "output": 28
                 }
             ]
         },
@@ -654,40 +612,40 @@
                 {
                     "sampler": 0,
                     "target": {
-                        "node": 6,
+                        "node": 5,
                         "path": "translation"
                     }
                 },
                 {
                     "sampler": 1,
                     "target": {
-                        "node": 6,
+                        "node": 5,
                         "path": "rotation"
                     }
                 },
                 {
                     "sampler": 2,
                     "target": {
-                        "node": 6,
+                        "node": 5,
                         "path": "scale"
                     }
                 }
             ],
             "samplers": [
                 {
-                    "input": 28,
-                    "interpolation": "LINEAR",
-                    "output": 29
-                },
-                {
-                    "input": 28,
+                    "input": 29,
                     "interpolation": "LINEAR",
                     "output": 30
                 },
                 {
-                    "input": 28,
+                    "input": 29,
                     "interpolation": "LINEAR",
                     "output": 31
+                },
+                {
+                    "input": 29,
+                    "interpolation": "LINEAR",
+                    "output": 32
                 }
             ]
         },
@@ -696,40 +654,82 @@
                 {
                     "sampler": 0,
                     "target": {
-                        "node": 2,
+                        "node": 6,
                         "path": "translation"
                     }
                 },
                 {
                     "sampler": 1,
                     "target": {
-                        "node": 2,
+                        "node": 6,
                         "path": "rotation"
                     }
                 },
                 {
                     "sampler": 2,
                     "target": {
-                        "node": 2,
+                        "node": 6,
                         "path": "scale"
                     }
                 }
             ],
             "samplers": [
                 {
-                    "input": 32,
-                    "interpolation": "LINEAR",
-                    "output": 33
-                },
-                {
-                    "input": 32,
+                    "input": 33,
                     "interpolation": "LINEAR",
                     "output": 34
                 },
                 {
-                    "input": 32,
+                    "input": 33,
                     "interpolation": "LINEAR",
                     "output": 35
+                },
+                {
+                    "input": 33,
+                    "interpolation": "LINEAR",
+                    "output": 36
+                }
+            ]
+        },
+        {
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 2,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 1,
+                    "target": {
+                        "node": 2,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 2,
+                    "target": {
+                        "node": 2,
+                        "path": "scale"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 37,
+                    "interpolation": "LINEAR",
+                    "output": 38
+                },
+                {
+                    "input": 37,
+                    "interpolation": "LINEAR",
+                    "output": 39
+                },
+                {
+                    "input": 37,
+                    "interpolation": "LINEAR",
+                    "output": 40
                 }
             ]
         },
@@ -759,26 +759,26 @@
             ],
             "samplers": [
                 {
-                    "input": 36,
+                    "input": 41,
                     "interpolation": "LINEAR",
-                    "output": 37
+                    "output": 42
                 },
                 {
-                    "input": 36,
+                    "input": 41,
                     "interpolation": "LINEAR",
-                    "output": 38
+                    "output": 43
                 },
                 {
-                    "input": 36,
+                    "input": 41,
                     "interpolation": "LINEAR",
-                    "output": 39
+                    "output": 44
                 }
             ]
         }
     ],
     "skins": [
         {
-            "inverseBindMatrices": 40,
+            "inverseBindMatrices": 45,
             "skeleton": 1,
             "joints": [
                 1,
@@ -802,6 +802,86 @@
         }
     ],
     "accessors": [
+        {
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 158694,
+            "max": [
+                29167
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 29168,
+            "max": [
+                15,
+                15,
+                15,
+                15
+            ],
+            "min": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 29168,
+            "max": [
+                0.9999985098838806,
+                0.999980628490448,
+                0.9999958872795104
+            ],
+            "min": [
+                -0.9999985098838806,
+                -0.999958872795105,
+                -0.999984085559845
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 29168,
+            "max": [
+                2.5068299770355226,
+                1.656499981880188,
+                0.4628799855709076
+            ],
+            "min": [
+                -2.5068299770355226,
+                -5.23967981338501,
+                -0.39164999127388
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 29168,
+            "max": [
+                1.0,
+                0.999889612197876,
+                0.999758005142212,
+                0.9992464184761049
+            ],
+            "min": [
+                0.0001000620031845756,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "type": "VEC4"
+        },
         {
             "bufferView": 1,
             "byteOffset": 0,

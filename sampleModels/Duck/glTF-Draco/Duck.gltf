@@ -77,11 +77,11 @@
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": -1,
-                        "POSITION": -1,
-                        "TEXCOORD_0": -1
+                        "NORMAL": 1,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 3
                     },
-                    "indices": -1,
+                    "indices": 0,
                     "mode": 4,
                     "material": 0,
                     "extensions": {
@@ -97,6 +97,66 @@
                 }
             ],
             "name": "LOD3spShape"
+        }
+    ],
+    "accessors": [
+        {
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 12636,
+            "max": [
+                2398
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2399,
+            "max": [
+                0.9995989799499512,
+                0.999580979347229,
+                0.9984359741210938
+            ],
+            "min": [
+                -0.9990839958190918,
+                -1.0,
+                -0.9998319745063782
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2399,
+            "max": [
+                96.17990112304688,
+                163.97000122070313,
+                53.92520141601563
+            ],
+            "min": [
+                -69.29850006103516,
+                9.929369926452637,
+                -61.32820129394531
+            ],
+            "type": "VEC3"
+        },
+        {
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2399,
+            "max": [
+                0.9833459854125976,
+                0.9800369739532472
+            ],
+            "min": [
+                0.026409000158309938,
+                0.01996302604675293
+            ],
+            "type": "VEC2"
         }
     ],
     "materials": [
