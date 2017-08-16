@@ -2679,7 +2679,7 @@
         {
             "buffer": 0,
             "byteOffset": 2888,
-            "byteLength": 14545
+            "byteLength": 9128
         },
         {
             "buffer": 0,
@@ -2704,7 +2704,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 17433,
+            "byteLength": 12016,
             "uri": "RiggedFigure0.bin"
         }
     ],
