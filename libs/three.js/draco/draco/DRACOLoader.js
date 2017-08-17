@@ -269,7 +269,6 @@ THREE.DRACOLoader.prototype = {
 
         // Get weights attributes
         var weightsAttributeData;
-      console.log("models loaded is " + this.modelsLoaded);
         var weightsAttId = attributes_map['WEIGHTS_0']; 
         if (weightsAttId === undefined) {
           weightsAttId = -1;
