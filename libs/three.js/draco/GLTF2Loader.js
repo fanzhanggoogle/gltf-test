@@ -559,7 +559,6 @@ THREE.GLTF2Loader = ( function () {
                 var dracoDecoderType = {};
                 dracoDecoderType.type = "wasm";
                // dracoDecoderType.type = "js";
-                console.log("Created extension");
 		this.dracoLoader = new THREE.DRACOLoader(undefined, dracoDecoderType);
 	}
 

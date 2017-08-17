@@ -95,7 +95,6 @@ THREE.DRACOLoader.prototype = {
     decodeDracoFile: function(rawBuffer, attributes_map, callback) {
       var scope = this;
       this.modelsLoaded = this.modelsLoaded + 1;
-      console.log("models loaded is " + this.modelsLoaded);
       //if (this.modelsLoaded < 2) {
 
       THREE.DRACOLoader.getDecoder(this,
@@ -110,7 +109,6 @@ THREE.DRACOLoader.prototype = {
       /*
        * Here is how to use Draco Javascript decoder and get the geometry.
        */
-      console.log("Created buffer");
       var buffer = new dracoDecoder.DecoderBuffer();
       buffer.Init(new Int8Array(rawBuffer), rawBuffer.byteLength);
       var decoder = new dracoDecoder.Decoder();
@@ -271,6 +269,7 @@ THREE.DRACOLoader.prototype = {
 
         // Get weights attributes
         var weightsAttributeData;
+      console.log("models loaded is " + this.modelsLoaded);
         var weightsAttId = attributes_map['WEIGHTS_0']; 
         if (weightsAttId === undefined) {
           weightsAttId = -1;
@@ -490,7 +489,6 @@ THREE.DRACOLoader.loadWebAssemblyDecoder = function(dracoDecoder) {
     // property with the name of wasmBinary and the value must be an
     // ArrayBuffer containing the contents of the .wasm file.
     dracoDecoder.dracoDecoderType['wasmBinary'] = xhr.response;
-                console.log("loaded wasm");
     dracoDecoder.state = THREE.DRACOLoader.DecoderState.LOADED;
     dracoDecoder.timeLoaded = performance.now();
   };
@@ -525,7 +523,6 @@ THREE.DRACOLoader.getDecoder = (function() {
     var decoder;
     var deocderCreationCalled = false;
     return function(dracoDecoder, onDracoDecoderModuleLoadedCallback) {
-      console.log(dracoDecoder.state);
         if (typeof DracoDecoderModule === 'undefined') {
           var waitMs = 0;
           if (dracoDecoder.timeLoaded > 0) {
@@ -555,7 +552,6 @@ THREE.DRACOLoader.getDecoder = (function() {
           } else {
             if (!deocderCreationCalled) {
               deocderCreationCalled = true;
-              console.log('dracoDecoder.dracoDecoderType[onModuleLoaded]');
               dracoDecoder.dracoDecoderType['onModuleLoaded'] = function(module) {
                 if (typeof onDracoDecoderModuleLoadedCallback === 'function') {
                   decoder = module;
