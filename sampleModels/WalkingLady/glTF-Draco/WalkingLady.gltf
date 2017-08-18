@@ -1609,7 +1609,7 @@
         {
             "buffer": 0,
             "byteOffset": 14224,
-            "byteLength": 558272
+            "byteLength": 99750
         },
         {
             "buffer": 0,
@@ -1634,7 +1634,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 572496,
+            "byteLength": 113974,
             "uri": "WalkingLady0.bin"
         }
     ],
