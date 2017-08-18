@@ -2710,7 +2710,7 @@
         {
             "buffer": 0,
             "byteOffset": 42180,
-            "byteLength": 73413
+            "byteLength": 17535
         },
         {
             "buffer": 0,
@@ -2735,7 +2735,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 115593,
+            "byteLength": 59715,
             "uri": "CesiumMan0.bin"
         }
     ],
