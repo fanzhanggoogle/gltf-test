@@ -556,9 +556,10 @@ THREE.GLTF2Loader = ( function () {
 
 		this.name = EXTENSIONS.KHR_DRACO_MESH_COMPRESSION;
 
-		this.dracoLoader = new THREE.DRACOLoader();
-		this.dracoLoader.setDracoDecoderType( {} );
-
+                var dracoDecoderType = {};
+                //dracoDecoderType.type = "wasm";
+                dracoDecoderType.type = "js";
+		this.dracoLoader = new THREE.DRACOLoader(undefined, dracoDecoderType);
 	}
 
 	GLTFDracoMeshCompressionExtension.prototype.decodePrimitive = function ( primitive, dependencies, onDecode ) {

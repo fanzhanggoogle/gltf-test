@@ -14,16 +14,30 @@
 //
 'use strict';
 
-THREE.DRACOLoader = function(manager) {
+// If |dracoDecoderType|.type is set to "js", then DRACOLoader will load the
+// Draco JavaScript decoder.
+THREE.DRACOLoader = function(manager, dracoDecoderType) {
+    this.state = THREE.DRACOLoader.DecoderState.NOT_LOADED;
+    this.timeLoaded = 0;
     this.manager = (manager !== undefined) ? manager :
         THREE.DefaultLoadingManager;
     this.materials = null;
     this.verbosity = 0;
     this.attributeOptions = {};
-    this.dracoDecoderType = {};
+    this.dracoDecoderType =
+        (dracoDecoderType !== undefined) ? dracoDecoderType : {};
+    this.modelsLoaded = 0;
     this.drawMode = THREE.TrianglesDrawMode;
+    THREE.DRACOLoader.loadDracoDecoder(this);
 };
 
+THREE.DRACOLoader.DecoderState = {
+    ERROR: 0,
+    NOT_LOADED: 1,
+    LOADING: 2,
+    LOADED: 3,
+    READY: 4
+};
 
 THREE.DRACOLoader.prototype = {
 
@@ -54,10 +68,6 @@ THREE.DRACOLoader.prototype = {
         this.verbosity = level;
     },
 
-    setDracoDecoderType: function(dracoDecoderType) {
-        this.dracoDecoderType = dracoDecoderType;
-    },
-
     /**
      *  Sets desired mode for generated geometry indices.
      *  Can be either:
@@ -84,10 +94,15 @@ THREE.DRACOLoader.prototype = {
 
     decodeDracoFile: function(rawBuffer, attributes_map, callback) {
       var scope = this;
-      THREE.DRACOLoader.getDecoder(this.dracoDecoderType,
+      this.modelsLoaded = this.modelsLoaded + 1;
+      //if (this.modelsLoaded < 2) {
+
+      THREE.DRACOLoader.getDecoder(this,
           function(dracoDecoder) {
             scope.decodeDracoFileInternal(rawBuffer, attributes_map, dracoDecoder, callback);
       });
+
+      //}
     },
 
     decodeDracoFileInternal : function(rawBuffer, attributes_map, dracoDecoder, callback) {
@@ -244,7 +259,7 @@ THREE.DRACOLoader.prototype = {
           jointsAttId = -1;
         }
         if (jointsAttId != -1) {
-          var jointsAttribute = decoder.GetAttribute(dracoGeometry,
+          var jointsAttribute = decoder.GetAttributeByUniqueId(dracoGeometry,
                                                     jointsAttId);
           jointsAttributeData = new dracoDecoder.DracoFloat32Array();
           decoder.GetAttributeFloatForAllPoints(dracoGeometry,
@@ -259,7 +274,7 @@ THREE.DRACOLoader.prototype = {
           weightsAttId = -1;
         }
         if (weightsAttId != -1) {
-          var weightsAttribute = decoder.GetAttribute(dracoGeometry,
+          var weightsAttribute = decoder.GetAttributeByUniqueId(dracoGeometry,
                                                       weightsAttId);
           weightsAttributeData = new dracoDecoder.DracoFloat32Array();
           decoder.GetAttributeFloatForAllPoints(dracoGeometry,
@@ -423,7 +438,7 @@ THREE.DRACOLoader.prototype = {
     },
 
     isVersionSupported: function(version, callback) {
-        THREE.DRACOLoader.getDecoder(this.dracoDecoderType,
+        THREE.DRACOLoader.getDecoder(this,
             function(decoder) {
               callback(decoder.isVersionSupported(version));
             });
@@ -436,6 +451,67 @@ THREE.DRACOLoader.prototype = {
     }
 };
 
+// This function loads a JavaScript file and adds it to the page. "path"
+// is the path to the JavaScript file. "onLoadFunc" is the function to be
+// called when the JavaScript file has been loaded.
+THREE.DRACOLoader.loadJavaScriptFile = function(path, onLoadFunc,
+    dracoDecoder) {
+  var head = document.getElementsByTagName('head')[0];
+  var element = document.createElement('script');
+  element.id = "decoder_script";
+  element.type = 'text/javascript';
+  element.src = path;
+  if (onLoadFunc !== null) {
+    element.onload = onLoadFunc(dracoDecoder);
+  } else {
+    element.onload = function(dracoDecoder) {
+      dracoDecoder.state = THREE.DRACOLoader.DecoderState.LOADED;
+      dracoDecoder.timeLoaded = performance.now();
+    };
+  }
+
+  var previous_decoder_script = document.getElementById("decoder_script");
+  if (previous_decoder_script !== null) {
+    previous_decoder_script.parentNode.removeChild(previous_decoder_script);
+  }
+  head.appendChild(element);
+}
+
+THREE.DRACOLoader.loadWebAssemblyDecoder = function(dracoDecoder) {
+  dracoDecoder.dracoDecoderType['wasmBinaryFile'] = '../draco_decoder.wasm';
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', '../../libs/three.js/draco/draco/draco_decoder.wasm', true);
+  xhr.responseType = 'arraybuffer';
+  xhr.onload = function() {
+    // draco_wasm_wrapper.js must be loaded before DracoDecoderModule is
+    // created. The object passed into DracoDecoderModule() must contain a
+    // property with the name of wasmBinary and the value must be an
+    // ArrayBuffer containing the contents of the .wasm file.
+    dracoDecoder.dracoDecoderType['wasmBinary'] = xhr.response;
+    dracoDecoder.state = THREE.DRACOLoader.DecoderState.LOADED;
+    dracoDecoder.timeLoaded = performance.now();
+  };
+  xhr.send(null)
+}
+
+// This function will test if the browser has support for WebAssembly. If
+// it does it will download the WebAssembly Draco decoder, if not it will
+// download the asmjs Draco decoder.
+THREE.DRACOLoader.loadDracoDecoder = function(dracoDecoder) {
+  dracoDecoder.state = THREE.DRACOLoader.DecoderState.LOADING;
+  if (typeof WebAssembly !== 'object' ||
+      dracoDecoder.dracoDecoderType.type === 'js') {
+    // No WebAssembly support
+    THREE.DRACOLoader.loadJavaScriptFile('../../libs/three.js/draco/draco/draco_decoder.js',
+        null, dracoDecoder);
+  } else {
+    THREE.DRACOLoader.loadJavaScriptFile('../../libs/three.js/draco/draco/draco_wasm_wrapper.js',
+        function (dracoDecoder) {
+          THREE.DRACOLoader.loadWebAssemblyDecoder(dracoDecoder);
+        }, dracoDecoder);
+  }
+}
+
 /**
  * Creates and returns a singleton instance of the DracoDecoderModule.
  * The module loading is done asynchronously for WebAssembly. Initialized module
@@ -444,24 +520,50 @@ THREE.DRACOLoader.prototype = {
  */
 THREE.DRACOLoader.getDecoder = (function() {
     var decoder;
-
-    return function(dracoDecoderType, onDracoDecoderModuleLoadedCallback) {
+    var deocderCreationCalled = false;
+    return function(dracoDecoder, onDracoDecoderModuleLoadedCallback) {
         if (typeof DracoDecoderModule === 'undefined') {
-          throw new Error('THREE.DRACOLoader: DracoDecoderModule not found.');
-        }
-        if (typeof decoder !== 'undefined') {
-          // Module already initialized.
-          if (typeof onDracoDecoderModuleLoadedCallback !== 'undefined') {
-            onDracoDecoderModuleLoadedCallback(decoder);
+          var waitMs = 0;
+          if (dracoDecoder.timeLoaded > 0) {
+            // Wait until the Draco decoder is loaded before starting the error
+            // timer.
+            waitMs = performance.now() - dracoDecoder.timeLoaded;
+          }
+
+          // After loading the Draco JavaScript decoder file, there is still
+          // some time before the DracoDecoderModule is defined. So start a
+          // loop to check when the DracoDecoderModule gets defined. If the
+          // time is hit throw an error.
+          if (waitMs < 5000) {
+            setTimeout(function() {
+              THREE.DRACOLoader.getDecoder(dracoDecoder,
+                  onDracoDecoderModuleLoadedCallback);
+            }, 10);
+          } else {
+            throw new Error('THREE.DRACOLoader: DracoDecoderModule not found.');
           }
         } else {
-          dracoDecoderType['onModuleLoaded'] = function(module) {
-            if (typeof onDracoDecoderModuleLoadedCallback === 'function') {
-              decoder = module;
-              onDracoDecoderModuleLoadedCallback(module);
+          if (typeof decoder !== 'undefined') {
+            // Module already initialized.
+            if (typeof onDracoDecoderModuleLoadedCallback !== 'undefined') {
+              onDracoDecoderModuleLoadedCallback(decoder);
             }
-          };
-          DracoDecoderModule(dracoDecoderType);
+          } else {
+            if (!deocderCreationCalled) {
+              deocderCreationCalled = true;
+              dracoDecoder.dracoDecoderType['onModuleLoaded'] = function(module) {
+                if (typeof onDracoDecoderModuleLoadedCallback === 'function') {
+                  decoder = module;
+                  //onDracoDecoderModuleLoadedCallback(module);
+                }
+              };
+              DracoDecoderModule(dracoDecoder.dracoDecoderType);
+            }
+            setTimeout(function() {
+              THREE.DRACOLoader.getDecoder(dracoDecoder,
+                  onDracoDecoderModuleLoadedCallback);
+            }, 10);
+          }
         }
     };
 
