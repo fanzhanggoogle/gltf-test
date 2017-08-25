@@ -429,7 +429,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -452,7 +451,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -475,7 +473,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -498,7 +495,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -521,7 +517,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -544,7 +539,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -567,7 +561,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -590,7 +583,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -613,7 +605,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -636,7 +627,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -659,7 +649,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -682,7 +671,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -705,7 +693,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -728,7 +715,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -751,7 +737,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -774,7 +759,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -797,7 +781,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -820,7 +803,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -843,7 +825,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -866,7 +847,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -889,7 +869,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -912,7 +891,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -935,7 +913,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -958,7 +935,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -981,7 +957,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1004,7 +979,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1027,7 +1001,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1050,7 +1023,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1073,7 +1045,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1096,7 +1067,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1119,7 +1089,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1142,7 +1111,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1165,7 +1133,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1188,7 +1155,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1211,7 +1177,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1234,7 +1199,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1257,7 +1221,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1280,7 +1243,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1303,7 +1265,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1326,7 +1287,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1349,7 +1309,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1372,7 +1331,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1395,7 +1353,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1418,7 +1375,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1441,7 +1397,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1464,7 +1419,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1487,7 +1441,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1510,7 +1463,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1533,7 +1485,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1556,7 +1507,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1579,7 +1529,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1602,7 +1551,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1625,7 +1573,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1648,7 +1595,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1671,7 +1617,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1694,7 +1639,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1717,7 +1661,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1740,7 +1683,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -1763,7 +1705,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -9629,297 +9570,297 @@
         {
             "buffer": 0,
             "byteOffset": 1095476,
-            "byteLength": 3517
+            "byteLength": 2867
         },
         {
             "buffer": 0,
-            "byteOffset": 1098993,
-            "byteLength": 5051
+            "byteOffset": 1098343,
+            "byteLength": 4331
         },
         {
             "buffer": 0,
-            "byteOffset": 1104044,
-            "byteLength": 1665
+            "byteOffset": 1102674,
+            "byteLength": 1308
         },
         {
             "buffer": 0,
-            "byteOffset": 1105709,
-            "byteLength": 5801
+            "byteOffset": 1103982,
+            "byteLength": 4880
         },
         {
             "buffer": 0,
-            "byteOffset": 1111510,
-            "byteLength": 717
+            "byteOffset": 1108862,
+            "byteLength": 556
         },
         {
             "buffer": 0,
-            "byteOffset": 1112227,
-            "byteLength": 2065
+            "byteOffset": 1109418,
+            "byteLength": 1588
         },
         {
             "buffer": 0,
-            "byteOffset": 1114292,
-            "byteLength": 5138
+            "byteOffset": 1111006,
+            "byteLength": 3956
         },
         {
             "buffer": 0,
-            "byteOffset": 1119430,
-            "byteLength": 1878
+            "byteOffset": 1114962,
+            "byteLength": 1520
         },
         {
             "buffer": 0,
-            "byteOffset": 1121308,
-            "byteLength": 598
+            "byteOffset": 1116482,
+            "byteLength": 469
         },
         {
             "buffer": 0,
-            "byteOffset": 1121906,
-            "byteLength": 2468
+            "byteOffset": 1116951,
+            "byteLength": 1964
         },
         {
             "buffer": 0,
-            "byteOffset": 1124374,
-            "byteLength": 4475
+            "byteOffset": 1118915,
+            "byteLength": 3561
         },
         {
             "buffer": 0,
-            "byteOffset": 1128849,
-            "byteLength": 4079
+            "byteOffset": 1122476,
+            "byteLength": 3415
         },
         {
             "buffer": 0,
-            "byteOffset": 1132928,
-            "byteLength": 2426
+            "byteOffset": 1125891,
+            "byteLength": 1935
         },
         {
             "buffer": 0,
-            "byteOffset": 1135354,
-            "byteLength": 2992
+            "byteOffset": 1127826,
+            "byteLength": 2418
         },
         {
             "buffer": 0,
-            "byteOffset": 1138346,
-            "byteLength": 577
+            "byteOffset": 1130244,
+            "byteLength": 452
         },
         {
             "buffer": 0,
-            "byteOffset": 1138923,
-            "byteLength": 3234
+            "byteOffset": 1130696,
+            "byteLength": 2596
         },
         {
             "buffer": 0,
-            "byteOffset": 1142157,
-            "byteLength": 729
+            "byteOffset": 1133292,
+            "byteLength": 568
         },
         {
             "buffer": 0,
-            "byteOffset": 1142886,
-            "byteLength": 2861
+            "byteOffset": 1133860,
+            "byteLength": 2199
         },
         {
             "buffer": 0,
-            "byteOffset": 1145747,
-            "byteLength": 2079
+            "byteOffset": 1136059,
+            "byteLength": 1576
         },
         {
             "buffer": 0,
-            "byteOffset": 1147826,
-            "byteLength": 1586
+            "byteOffset": 1137635,
+            "byteLength": 1222
         },
         {
             "buffer": 0,
-            "byteOffset": 1149412,
-            "byteLength": 1701
+            "byteOffset": 1138857,
+            "byteLength": 1393
         },
         {
             "buffer": 0,
-            "byteOffset": 1151113,
-            "byteLength": 3998
+            "byteOffset": 1140250,
+            "byteLength": 3247
         },
         {
             "buffer": 0,
-            "byteOffset": 1155111,
-            "byteLength": 7005
+            "byteOffset": 1143497,
+            "byteLength": 5726
         },
         {
             "buffer": 0,
-            "byteOffset": 1162116,
-            "byteLength": 10361
+            "byteOffset": 1149223,
+            "byteLength": 8442
         },
         {
             "buffer": 0,
-            "byteOffset": 1172477,
-            "byteLength": 6398
+            "byteOffset": 1157665,
+            "byteLength": 5341
         },
         {
             "buffer": 0,
-            "byteOffset": 1178875,
-            "byteLength": 14422
+            "byteOffset": 1163006,
+            "byteLength": 12458
         },
         {
             "buffer": 0,
-            "byteOffset": 1193297,
-            "byteLength": 9088
+            "byteOffset": 1175464,
+            "byteLength": 7415
         },
         {
             "buffer": 0,
-            "byteOffset": 1202385,
-            "byteLength": 6562
+            "byteOffset": 1182879,
+            "byteLength": 5366
         },
         {
             "buffer": 0,
-            "byteOffset": 1208947,
-            "byteLength": 4313
+            "byteOffset": 1188245,
+            "byteLength": 3498
         },
         {
             "buffer": 0,
-            "byteOffset": 1213260,
-            "byteLength": 3130
+            "byteOffset": 1191743,
+            "byteLength": 2663
         },
         {
             "buffer": 0,
-            "byteOffset": 1216390,
-            "byteLength": 2426
+            "byteOffset": 1194406,
+            "byteLength": 1972
         },
         {
             "buffer": 0,
-            "byteOffset": 1218816,
-            "byteLength": 7586
+            "byteOffset": 1196378,
+            "byteLength": 6239
         },
         {
             "buffer": 0,
-            "byteOffset": 1226402,
-            "byteLength": 4106
+            "byteOffset": 1202617,
+            "byteLength": 3330
         },
         {
             "buffer": 0,
-            "byteOffset": 1230508,
-            "byteLength": 1740
+            "byteOffset": 1205947,
+            "byteLength": 1424
         },
         {
             "buffer": 0,
-            "byteOffset": 1232248,
-            "byteLength": 5335
+            "byteOffset": 1207371,
+            "byteLength": 4550
         },
         {
             "buffer": 0,
-            "byteOffset": 1237583,
-            "byteLength": 2103
+            "byteOffset": 1211921,
+            "byteLength": 1652
         },
         {
             "buffer": 0,
-            "byteOffset": 1239686,
-            "byteLength": 1670
+            "byteOffset": 1213573,
+            "byteLength": 1368
         },
         {
             "buffer": 0,
-            "byteOffset": 1241356,
-            "byteLength": 2144
+            "byteOffset": 1214941,
+            "byteLength": 1761
         },
         {
             "buffer": 0,
-            "byteOffset": 1243500,
-            "byteLength": 1740
+            "byteOffset": 1216702,
+            "byteLength": 1403
         },
         {
             "buffer": 0,
-            "byteOffset": 1245240,
-            "byteLength": 982
+            "byteOffset": 1218105,
+            "byteLength": 784
         },
         {
             "buffer": 0,
-            "byteOffset": 1246222,
-            "byteLength": 4612
+            "byteOffset": 1218889,
+            "byteLength": 3962
         },
         {
             "buffer": 0,
-            "byteOffset": 1250834,
-            "byteLength": 2208
+            "byteOffset": 1222851,
+            "byteLength": 1848
         },
         {
             "buffer": 0,
-            "byteOffset": 1253042,
-            "byteLength": 7405
+            "byteOffset": 1224699,
+            "byteLength": 6342
         },
         {
             "buffer": 0,
-            "byteOffset": 1260447,
-            "byteLength": 1104
+            "byteOffset": 1231041,
+            "byteLength": 862
         },
         {
             "buffer": 0,
-            "byteOffset": 1261551,
-            "byteLength": 747
+            "byteOffset": 1231903,
+            "byteLength": 597
         },
         {
             "buffer": 0,
-            "byteOffset": 1262298,
-            "byteLength": 2838
+            "byteOffset": 1232500,
+            "byteLength": 2255
         },
         {
             "buffer": 0,
-            "byteOffset": 1265136,
-            "byteLength": 656
+            "byteOffset": 1234755,
+            "byteLength": 515
         },
         {
             "buffer": 0,
-            "byteOffset": 1265792,
-            "byteLength": 754
+            "byteOffset": 1235270,
+            "byteLength": 594
         },
         {
             "buffer": 0,
-            "byteOffset": 1266546,
-            "byteLength": 533
+            "byteOffset": 1235864,
+            "byteLength": 433
         },
         {
             "buffer": 0,
-            "byteOffset": 1267079,
-            "byteLength": 1206
+            "byteOffset": 1236297,
+            "byteLength": 1009
         },
         {
             "buffer": 0,
-            "byteOffset": 1268285,
-            "byteLength": 5091
+            "byteOffset": 1237306,
+            "byteLength": 4129
         },
         {
             "buffer": 0,
-            "byteOffset": 1273376,
-            "byteLength": 908
+            "byteOffset": 1241435,
+            "byteLength": 758
         },
         {
             "buffer": 0,
-            "byteOffset": 1274284,
-            "byteLength": 805
+            "byteOffset": 1242193,
+            "byteLength": 673
         },
         {
             "buffer": 0,
-            "byteOffset": 1275089,
-            "byteLength": 3749
+            "byteOffset": 1242866,
+            "byteLength": 3030
         },
         {
             "buffer": 0,
-            "byteOffset": 1278838,
-            "byteLength": 4583
+            "byteOffset": 1245896,
+            "byteLength": 3782
         },
         {
             "buffer": 0,
-            "byteOffset": 1283421,
-            "byteLength": 10977
+            "byteOffset": 1249678,
+            "byteLength": 8811
         },
         {
             "buffer": 0,
-            "byteOffset": 1294398,
-            "byteLength": 3313
+            "byteOffset": 1258489,
+            "byteLength": 2748
         },
         {
             "buffer": 0,
-            "byteOffset": 1297711,
-            "byteLength": 1120
+            "byteOffset": 1261237,
+            "byteLength": 896
         },
         {
             "buffer": 0,
-            "byteOffset": 1298831,
-            "byteLength": 1020
+            "byteOffset": 1262133,
+            "byteLength": 834
         },
         {
             "buffer": 0,
@@ -9944,7 +9885,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 1299851,
+            "byteLength": 1262967,
             "uri": "BrainStem0.bin"
         }
     ],

@@ -438,7 +438,6 @@
                             "attributes": {
                                 "WEIGHTS_0": 4,
                                 "JOINTS_0": 3,
-                                "TEXCOORD_0": 2,
                                 "NORMAL": 0,
                                 "POSITION": 1
                             }
@@ -2679,7 +2678,7 @@
         {
             "buffer": 0,
             "byteOffset": 2888,
-            "byteLength": 3472
+            "byteLength": 2830
         },
         {
             "buffer": 0,
@@ -2704,7 +2703,7 @@
     ],
     "buffers": [
         {
-            "byteLength": 6360,
+            "byteLength": 5718,
             "uri": "RiggedFigure0.bin"
         }
     ],
