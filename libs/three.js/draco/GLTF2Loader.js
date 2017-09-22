@@ -557,8 +557,8 @@ THREE.GLTF2Loader = ( function () {
 		this.name = EXTENSIONS.KHR_DRACO_MESH_COMPRESSION;
 
                 var dracoDecoderType = {};
-                dracoDecoderType.type = "wasm";
-               // dracoDecoderType.type = "js";
+                //dracoDecoderType.type = "wasm";
+                dracoDecoderType.type = "js";
 		this.dracoLoader = new THREE.DRACOLoader(undefined, dracoDecoderType);
 	}
 
@@ -570,10 +570,7 @@ THREE.GLTF2Loader = ( function () {
 
 		var dracoLoader = this.dracoLoader;
 
-                //setTimeout(function() {
-
 		dracoLoader.decodeDracoFile( bufferView, attributes_map, onDecode );
-                //}, 0);
 
 		// dracoLoader.isVersionSupported( primitive.extensions[ this.name ], function ( isSupported ) {
 

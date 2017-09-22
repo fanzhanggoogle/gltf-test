@@ -259,7 +259,7 @@ THREE.DRACOLoader.prototype = {
           jointsAttId = -1;
         }
         if (jointsAttId != -1) {
-          var jointsAttribute = decoder.GetAttribute(dracoGeometry,
+          var jointsAttribute = decoder.GetAttributeByUniqueId(dracoGeometry,
                                                     jointsAttId);
           jointsAttributeData = new dracoDecoder.DracoFloat32Array();
           decoder.GetAttributeFloatForAllPoints(dracoGeometry,
@@ -274,7 +274,7 @@ THREE.DRACOLoader.prototype = {
           weightsAttId = -1;
         }
         if (weightsAttId != -1) {
-          var weightsAttribute = decoder.GetAttribute(dracoGeometry,
+          var weightsAttribute = decoder.GetAttributeByUniqueId(dracoGeometry,
                                                       weightsAttId);
           weightsAttributeData = new dracoDecoder.DracoFloat32Array();
           decoder.GetAttributeFloatForAllPoints(dracoGeometry,
