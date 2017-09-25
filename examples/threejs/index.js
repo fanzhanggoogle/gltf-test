@@ -54,6 +54,7 @@ function init() {
     THREE.PropertyBinding.sanitizeNodeName = (n) => n;
     
     var loader = new THREE.GLTFLoader();
+    loader.setDRACOLoader( new THREE.DRACOLoader( undefined, {type: 'js'} ) );
     loader.setCrossOrigin( 'anonymous' );
 
     var scale = modelInfo.scale;
