@@ -75,6 +75,10 @@ function makeSampleModelLinks() {
             td.appendChild(createlink(engines[i].name, 'sampleModels', modelName, 'glTF-pbrSpecularGlossiness', scale));
             td.appendChild(document.createElement('br'));
             td.appendChild(createlink(engines[i].name, 'sampleModels', modelName, 'glTF-techniqueWebGL', scale));
+            td.appendChild(document.createElement('br'));
+            if (engines[i].name === 'Three.js') {
+              td.appendChild(createlink(engines[i].name, 'sampleModels', modelName, 'glTF-Draco', scale));
+            }
             tr.appendChild(td);
         }
         tableBody.appendChild(tr);
@@ -160,6 +164,10 @@ function makeTutorialPbrModelLinks() {
             td.appendChild(createlink(engines[i].name, 'tutorialModels', modelName, 'glTF-Binary', scale));
             td.appendChild(document.createElement('br'));
             td.appendChild(createlink(engines[i].name, 'tutorialModels', modelName, 'glTF-pbrSpecularGlossiness', scale));
+            td.appendChild(document.createElement('br'));
+            //if (engines[i].name === 'Three.js') {
+            //  td.appendChild(createlink(engines[i].name, 'tutorialModels', modelName, 'glTF-Draco', scale));
+            //}
             tr.appendChild(td);
         }
         tableBody.appendChild(tr);
