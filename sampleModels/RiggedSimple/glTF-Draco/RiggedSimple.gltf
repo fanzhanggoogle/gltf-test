@@ -102,8 +102,10 @@
             "KHR_draco_mesh_compression": {
               "bufferView": 4,
               "attributes": {
-                "NORMAL": 0,
-                "POSITION": 1
+                "JOINTS_0": 0,
+                "NORMAL": 1,
+                "POSITION": 2,
+                "WEIGHTS_0": 3
               }
             }
           }
@@ -504,12 +506,12 @@
     {
       "buffer": 0,
       "byteOffset": 392,
-      "byteLength": 626
+      "byteLength": 794
     }
   ],
   "buffers": [
     {
-      "byteLength": 1018,
+      "byteLength": 1186,
       "uri": "0.bin"
     }
   ],
